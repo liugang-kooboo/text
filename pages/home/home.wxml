@@ -1,0 +1,13 @@
+<!--pages/home/home.wxml-->
+<view class='container'>
+  <view class='top'></view>
+  <view class='box'></view>
+  <view class='first'>
+    <image style='width: 165rpx;height: 51rpx' src='/images/time-icon/head-bianqian@2x.png'></image>
+  </view>
+  <view class='add'>
+    <image style='width: 170rpx;height: 170rpx' src='/images/time-icon/add@2x.png'></image>
+  </view>
+  
+</view>
+
